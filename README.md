@@ -52,7 +52,7 @@ Analyzing descriptive business dimensions to better understand entities within t
 - Products
 - Categories
 - Countries
-- Cities
+
 
 ### 🧠 SQL Concepts Used
 - DISTINCT
@@ -171,30 +171,13 @@ After preparing the analytical data model, this EDA project was created to perfo
 
 ---
 
-# 🔄 Git Workflow
 
-All SQL scripts and project progress were tracked and committed using Git, allowing:
-- Version control
-- Incremental development
-- Query history tracking
-- Structured project organization
 
----
 
-# 🎯 Learning Outcomes
 
-Through this project, I improved my understanding of:
-- SQL analytical thinking
-- Business-oriented data analysis
-- Working with dimensional models
-- Translating business questions into SQL queries
-- Exploring warehouse-ready analytical datasets
-
----
 
 # 🙌 Author
 
 **Mahdi Dehlaghi**  
 📊 Data Analyst  
-💻 IT Graduate  
-⚙️ Passionate About Data Engineering
+
