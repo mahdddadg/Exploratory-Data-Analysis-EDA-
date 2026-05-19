@@ -1,4 +1,6 @@
-# 📊 SQL Exploratory Data Analysis (EDA)
+# 📊 SQL Exploratory Data Analysis (EDA) part 1 :
+
+link to SQL Advanced Analytics – Part 2 : https://github.com/mahdddadg/Sql-Advance-Analytics-part-2/tree/main
 
 ## 👨‍💻 About Me
 Hi, I'm **Mahdi Dehlaghi** — a **Data Analyst** with a Bachelor's Degree in **Information Technology (IT)**.  
